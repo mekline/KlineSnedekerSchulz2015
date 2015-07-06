@@ -8,4 +8,4 @@ KSS_Spatiotemporal1 contains stimuli used in Experiment 1, which contrasts match
 
 KSS_Spatiotemporal2 contains stimuli used in Experiment 2, which contrasts 'action at a distance' causal events with versions that have the same subparts (agent's action, interesting patient outcome) reversed in onset time. 
 
-Videos can be downloaded here, and are also available as a youtube playlist <a href="www.youtube.com">here</a>.
+Videos can be downloaded here, and are also available as a youtube playlist <a href="http://www.youtube.com">here</a>.
