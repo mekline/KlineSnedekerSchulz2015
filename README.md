@@ -1,6 +1,6 @@
 # Kline, Snedeker, & Schulz (2016)
 
-(Journal date not finalized)
+(Journal date/citation not finalized)
 
 Stimuli used in forced-choice experiments testing children's preferences for novel transitive verbs.  
 
