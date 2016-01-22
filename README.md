@@ -1,4 +1,4 @@
-# Kline, Snedeker, & Schulz (2015)
+# Kline, Snedeker, & Schulz (2016)
 
 (Journal date not finalized)
 
